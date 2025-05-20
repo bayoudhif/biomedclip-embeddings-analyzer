@@ -1,0 +1,8 @@
+# Ignore Python virtual environment
+venv-py310/
+
+# Ignore all folders and files under Datasets
+Datasets/
+
+# Ignore the model weights file
+embeddings_analysis/model/pytorch_model.bin 

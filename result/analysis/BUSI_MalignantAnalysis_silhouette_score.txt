@@ -1,0 +1,1 @@
+Silhouette Score (healthy vs tumor): 0.17279720306396484

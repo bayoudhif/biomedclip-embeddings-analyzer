@@ -1,0 +1,1 @@
+Average text-to-text cosine similarity: 0.7649195194244385

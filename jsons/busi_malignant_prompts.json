@@ -1,0 +1,40 @@
+{
+    "experiment_name": "BUSI_MalignantAnalysis",
+    "prompt_pairs": [
+        {
+            "pair_id": 1,
+            "tumor": "Identify breast tumor",
+            "healthy": "Identify normal breast tissue"
+        },
+        {
+            "pair_id": 2,
+            "tumor": "A medical breast ultrasound revealing a hypoechoic mass",
+            "healthy": "A medical breast ultrasound showing homogeneous fibroglandular tissue"
+        },
+        {
+            "pair_id": 3,
+            "tumor": "Breast ultrasound showing irregular mass with spiculated margins and posterior acoustic shadowing",
+            "healthy": "Breast ultrasound showing regular echotexture with normal ductal patterns"
+        },
+        {
+            "pair_id": 4,
+            "tumor": "Malignant breast lesion with heterogeneous internal echoes and angular margins",
+            "healthy": "Normal breast parenchyma with preserved adipose and connective tissue architecture"
+        },
+        {
+            "pair_id": 5,
+            "tumor": "Suspicious breast mass with microlobulated borders and increased vascularity on Doppler",
+            "healthy": "Benign-appearing breast tissue with uniform echogenicity and smooth contours"
+        },
+        {
+            "pair_id": 6,
+            "tumor": "BI-RADS 5 breast lesion with vertical orientation and architectural distortion",
+            "healthy": "BI-RADS 1 normal breast tissue with expected layered anatomical structure"
+        },
+        {
+            "pair_id": 7,
+            "tumor": "Invasive ductal carcinoma with calcifications and taller-than-wide appearance",
+            "healthy": "Normal ductal structures with preserved Cooper's ligaments and fatty interfaces"
+        }
+    ]
+} 
